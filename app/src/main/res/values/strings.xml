@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="action_settings">setting</string>
+    <string name="rank">rank</string>
+    <string name="rank_key">rank_way</string>
+    <string name="hot_rated">top_rated</string>
+    <string name="popular">popular</string>
+    <string name="hot_rated_label">HOT</string>
+    <string name="popular_label">Popular</string>
+    <string name="favorites_label">Favorites</string>
+    <string name="title_activity_detail">Details</string>
+    <string name="refresh">refresh</string>
+
+    <string name="content_authority">com.example.ni.popularmovies</string>
+    <string name="favorites">favorites</string>
+    <string name="movie_name">名称:</string>
+    <string name="date">日期:</string>
+    <string name="rate">评分:</string>
+    <string name="run_time">时长(分钟):</string>
+    <string name="juqing">剧情介绍：</string>
+    <array name="pref_rank_values">
+        <item>@string/hot_rated</item>
+        <item>@string/popular</item>
+        <item>@string/favorites</item>
+    </array>
+
+    <array name="pref_rank_options">
+        <item>@string/hot_rated_label</item>
+        <item>@string/popular_label</item>
+        <item>@string/favorites_label</item>
+    </array>
+</resources>
